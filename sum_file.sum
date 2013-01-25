@@ -1,0 +1,446 @@
+﻿ *** Simulation CFD Summary File Output ***
+
+ Simulation CFD 2013 (BlackBear 2013.0.0 F) [20120223]
+
+ Job Name = 45c   Date created: Mon Jan 14 15:48:33 2013
+
+
+ *** Analysis Information 
+ Steady State is ON
+ Turbulent Incompressible Flow is ON 
+ Static Temperature Equation is ON
+ Mixed Convection is ON
+
+ *** Field Variable Results Summary For Iteration 300
+
+
+  Var      Mean          at      Max          at      Min
+ Vx Vel  +5.71519e+002 1320103 +3.02718e+004 1319857 -2.66582e+004 mm/s
+ Vy Vel  +3.40035e+002 158922 +2.79257e+004 1319731 -1.42855e+004 mm/s
+ Vz Vel  -7.17959e+002 1318038 +1.62986e+004 1319053 -2.21582e+004 mm/s
+ Press  -2.05980e+001  50858 +5.19412e+003  50905 -1.44865e+003 N/m^2
+ Temp  +4.60000e+001  10965 +4.60000e+001 315867 +4.60000e+001 C
+ TurbK  +1.19616e+006 1319490 +1.44421e+008  10966 +1.81700e-008 mm^2/s^2
+ TurbD  +1.71412e+009 1319490 +2.88554e+011 233065 +5.37798e-004 mm^2/s^3
+ Scal1  +0.00000e+000  10965 +0.00000e+000 315867 +0.00000e+000  
+ PTotl  -5.91285e+000  50858 +5.19412e+003  50905 -1.44865e+003 N/m^2
+ EVisc  +2.52037e-004 1320370 +1.14488e-002   2229 +0.00000e+000 g/mm-s
+ ECond  +1.05355e-002 1352833 +5.88890e-002   2229 +0.00000e+000 W/mm-K
+ Dens  +2.34793e-004  58024 +3.43080e-003 315867 +1.20473e-006 g/mm^3
+ Visc  +1.62605e-005  10965 +1.81700e-005   2229 +0.00000e+000 g/mm-s
+ Cond  +2.50840e-002   2229 +2.04000e-001 315867 +2.56300e-005 W/mm-K
+ SpecH  +1.01202e+000  38432 +1.81000e+000  10249 +1.00500e-003 J/g-K
+ Emiss  +8.94911e-001  10965 +1.00000e+000   2229 +0.00000e+000  
+ Transmiss  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000  
+ WRough  +0.00000e+000  10965 +0.00000e+000 315867 +0.00000e+000 mm
+ SeeBeck  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000 V/K
+ GenT  +1.11977e+003 223286 +1.18027e+005 584515 +3.19558e-013 1/s
+
+
+*** Openings ***
+
+
+         *** Outlet 1 ***
+
+  Surface ID = 2329
+
+  Node near Minimum X,Y,Z of opening = 11761
+
+  Minimum X,Y,Z of opening = 369.964000, 11.275438, -98.433898
+
+     Mass Flow Out            = -1.55703 g/s
+  Volume Flow Out            = -1.29242e+006 mm^3/s
+     Reynolds Number         = 1303.45
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00734951
+
+
+         *** Outlet 2 ***
+
+  Surface ID = 2332
+
+  Node near Minimum X,Y,Z of opening = 11125
+
+  Minimum X,Y,Z of opening = 369.964000, 73.727289, -114.615876
+
+     Mass Flow Out            = -20.4612 g/s
+  Volume Flow Out            = -1.6984e+007 mm^3/s
+     Reynolds Number         = 11182.5
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.0079087
+
+
+         *** Outlet 3 ***
+
+  Surface ID = 2335
+
+  Node near Minimum X,Y,Z of opening = 10924
+
+  Minimum X,Y,Z of opening = 369.964000, 164.751344, 40.640056
+
+     Mass Flow Out            = -32.8714 g/s
+  Volume Flow Out            = -2.72852e+007 mm^3/s
+     Reynolds Number         = 17965
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00750077
+
+
+         *** Outlet 4 ***
+
+  Surface ID = 2338
+
+  Node near Minimum X,Y,Z of opening = 330693
+
+  Minimum X,Y,Z of opening = 369.964000, 13.628909, -42.250396
+
+     Mass Flow Out            = -4.41889 g/s
+  Volume Flow Out            = -3.66794e+006 mm^3/s
+     Reynolds Number         = 3699.22
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00613354
+
+
+         *** Outlet 5 ***
+
+  Surface ID = 2326
+
+  Node near Minimum X,Y,Z of opening = 11273
+
+  Minimum X,Y,Z of opening = 369.964000, 13.989511, 50.285945
+
+     Mass Flow Out            = -4.9949 g/s
+  Volume Flow Out            = -4.14606e+006 mm^3/s
+     Reynolds Number         = 4181.42
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00540509
+
+
+         *** Outlet 6 ***
+
+  Surface ID = 2349
+
+  Node near Minimum X,Y,Z of opening = 339892
+
+  Minimum X,Y,Z of opening = -269.964000, 156.312614, 81.190693
+
+     Mass Flow Out            = 53.3701 g/s
+  Volume Flow Out            = 4.43003e+007 mm^3/s
+     Reynolds Number         = 19740.6
+     Outlet Bulk Pressure    = 0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00519831
+
+
+         *** Outlet 7 ***
+
+  Surface ID = 2343
+
+  Node near Minimum X,Y,Z of opening = 336812
+
+  Minimum X,Y,Z of opening = -269.964000, 1.381035, -69.920951
+
+     Mass Flow Out            = 10.3063 g/s
+  Volume Flow Out            = 8.55482e+006 mm^3/s
+     Reynolds Number         = 10190.3
+     Outlet Bulk Pressure    = 0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00659688
+
+  Total Mass Flow Out    = -0.627005 g/s
+
+  Total Vol. Flow Out    = -520451 mm^3/s
+
+
+          *** Statistics for Temp ***
+
+  Value Range [C]             Percent Volume
+  46.000000 - 46.000000        100.000000
+Mean Value = 46.000000 , Standard Deviation = 46.000000 
+
+
+
+          *** Statistics for Velocity Magnitude ***
+
+  Value Range [mm/s]             Percent Volume
+  0.000000 - 1804.871209        70.739580
+  1804.871209 - 3609.742418        22.118565
+  3609.742418 - 5414.613626        3.108442
+  5414.613626 - 7219.484835        1.462675
+  7219.484835 - 9024.356044        0.805778
+  9024.356044 - 10829.227253        0.419964
+  10829.227253 - 12634.098462        0.275437
+  12634.098462 - 14438.969670        0.209040
+  14438.969670 - 16243.840879        0.174458
+  16243.840879 - 18048.712088        0.136513
+  18048.712088 - 19853.583297        0.124583
+  19853.583297 - 21658.454505        0.100834
+  21658.454505 - 23463.325714        0.106699
+  23463.325714 - 25268.196923        0.089060
+  25268.196923 - 27073.068132        0.034184
+  27073.068132 - 28877.939341        0.027519
+  28877.939341 - 30682.810549        0.039621
+  30682.810549 - 32487.681758        0.027027
+  32487.681758 - 34292.552967        0.000014
+  34292.552967 - 36097.424176        0.000005
+Mean Value = 1921.872060 , Standard Deviation = 4134.236197 
+
+
+ *** Field Variable Results Summary For Iteration 326
+
+
+  Var      Mean          at      Max          at      Min
+ Vx Vel  +5.71578e+002 1320103 +3.02718e+004 1319857 -2.66582e+004 mm/s
+ Vy Vel  +3.40035e+002 158922 +2.79257e+004 1319731 -1.42855e+004 mm/s
+ Vz Vel  -7.17959e+002 1318038 +1.62986e+004 1319053 -2.21582e+004 mm/s
+ Press  -2.05980e+001  50858 +5.19412e+003  50905 -1.44865e+003 N/m^2
+ Temp  +5.44568e+001 870166 +6.72025e+001 804544 +4.60000e+001 C
+ TurbK  +1.19617e+006 1319490 +1.44421e+008 308593 +1.81700e-008 mm^2/s^2
+ TurbD  +1.71418e+009 1319490 +2.88554e+011 233065 +5.38669e-004 mm^2/s^3
+ Scal1  +0.00000e+000 308377 +0.00000e+000 1131562 +0.00000e+000  
+ PTotl  -5.91276e+000  50858 +5.19412e+003  50905 -1.44865e+003 N/m^2
+ EVisc  +2.52037e-004 1320370 +1.14488e-002   2706 +0.00000e+000 g/mm-s
+ ECond  +1.05355e-002 1352833 +5.88890e-002   2706 +0.00000e+000 W/mm-K
+ Dens  +2.34793e-004  58027 +3.43080e-003 1131562 +1.20473e-006 g/mm^3
+ Visc  +1.62605e-005 308377 +1.81700e-005   2706 +0.00000e+000 g/mm-s
+ Cond  +2.50840e-002   2706 +2.04000e-001 1131562 +2.56300e-005 W/mm-K
+ SpecH  +1.01202e+000  61855 +1.81000e+000 229684 +1.00500e-003 J/g-K
+ Emiss  +8.94911e-001 308377 +1.00000e+000   2706 +0.00000e+000  
+ Transmiss  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000  
+ WRough  +0.00000e+000 308377 +0.00000e+000 1131562 +0.00000e+000 mm
+ SeeBeck  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000 V/K
+ GenT  +1.11977e+003 223286 +1.18027e+005 584842 +3.21254e-013 1/s
+
+
+*** Openings ***
+
+
+         *** Outlet 1 ***
+
+  Surface ID = 2329
+
+  Node near Minimum X,Y,Z of opening = 11761
+
+  Minimum X,Y,Z of opening = 369.964000, 11.275438, -98.433898
+
+     Mass Flow Out            = -1.55703 g/s
+  Volume Flow Out            = -1.29242e+006 mm^3/s
+     Reynolds Number         = 1303.45
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 53.4009 C
+     Outlet Mach Number      = 0.00726575
+
+
+         *** Outlet 2 ***
+
+  Surface ID = 2332
+
+  Node near Minimum X,Y,Z of opening = 11125
+
+  Minimum X,Y,Z of opening = 369.964000, 73.727289, -114.615876
+
+     Mass Flow Out            = -20.4612 g/s
+  Volume Flow Out            = -1.6984e+007 mm^3/s
+     Reynolds Number         = 11182.5
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 54.4979 C
+     Outlet Mach Number      = 0.00780546
+
+
+         *** Outlet 3 ***
+
+  Surface ID = 2335
+
+  Node near Minimum X,Y,Z of opening = 10924
+
+  Minimum X,Y,Z of opening = 369.964000, 164.751344, 40.640056
+
+     Mass Flow Out            = -32.8714 g/s
+  Volume Flow Out            = -2.72852e+007 mm^3/s
+     Reynolds Number         = 17965
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 59.8271 C
+     Outlet Mach Number      = 0.00734338
+
+
+         *** Outlet 4 ***
+
+  Surface ID = 2338
+
+  Node near Minimum X,Y,Z of opening = 330693
+
+  Minimum X,Y,Z of opening = 369.964000, 13.628909, -42.250396
+
+     Mass Flow Out            = -4.41889 g/s
+  Volume Flow Out            = -3.66794e+006 mm^3/s
+     Reynolds Number         = 3699.22
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 56.0447 C
+     Outlet Mach Number      = 0.00603924
+
+
+         *** Outlet 5 ***
+
+  Surface ID = 2326
+
+  Node near Minimum X,Y,Z of opening = 11273
+
+  Minimum X,Y,Z of opening = 369.964000, 13.989511, 50.285945
+
+     Mass Flow Out            = -4.9949 g/s
+  Volume Flow Out            = -4.14606e+006 mm^3/s
+     Reynolds Number         = 4181.42
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 58.1366 C
+     Outlet Mach Number      = 0.00530516
+
+
+         *** Outlet 6 ***
+
+  Surface ID = 2349
+
+  Node near Minimum X,Y,Z of opening = 339892
+
+  Minimum X,Y,Z of opening = -269.964000, 156.312614, 81.190693
+
+     Mass Flow Out            = 53.3701 g/s
+  Volume Flow Out            = 4.43003e+007 mm^3/s
+     Reynolds Number         = 19740.6
+     Outlet Bulk Pressure    = 0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00519831
+
+
+         *** Outlet 7 ***
+
+  Surface ID = 2343
+
+  Node near Minimum X,Y,Z of opening = 336812
+
+  Minimum X,Y,Z of opening = -269.964000, 1.381035, -69.920951
+
+     Mass Flow Out            = 10.3063 g/s
+  Volume Flow Out            = 8.55482e+006 mm^3/s
+     Reynolds Number         = 10190.3
+     Outlet Bulk Pressure    = 0 N/m^2
+     Outlet Bulk Temperature = 46 C
+     Outlet Mach Number      = 0.00659688
+
+  Total Mass Flow Out    = -0.627005 g/s
+
+  Total Vol. Flow Out    = -520451 mm^3/s
+
+
+          *** Statistics for Temp ***
+
+  Value Range [C]             Percent Volume
+  46.000000 - 47.060123        4.561401
+  47.060123 - 48.120246        1.346933
+  48.120246 - 49.180369        1.797623
+  49.180369 - 50.240492        3.151154
+  50.240492 - 51.300615        9.499644
+  51.300615 - 52.360738        25.990725
+  52.360738 - 53.420862        11.010927
+  53.420862 - 54.480985        8.230894
+  54.480985 - 55.541108        5.564351
+  55.541108 - 56.601231        4.702222
+  56.601231 - 57.661354        5.937861
+  57.661354 - 58.721477        6.949905
+  58.721477 - 59.781600        4.171172
+  59.781600 - 60.841723        2.195586
+  60.841723 - 61.901846        2.167868
+  61.901846 - 62.961969        1.734882
+  62.961969 - 64.022092        0.665258
+  64.022092 - 65.082215        0.197606
+  65.082215 - 66.142338        0.123657
+  66.142338 - 67.202461        0.000329
+Mean Value = 54.456750 , Standard Deviation = 4.214440 
+
+
+
+          *** Statistics for Velocity Magnitude ***
+
+  Value Range [mm/s]             Percent Volume
+  0.000000 - 1804.871209        70.739580
+  1804.871209 - 3609.742418        22.118565
+  3609.742418 - 5414.613626        3.107852
+  5414.613626 - 7219.484835        1.463067
+  7219.484835 - 9024.356044        0.805977
+  9024.356044 - 10829.227253        0.419964
+  10829.227253 - 12634.098462        0.275429
+  12634.098462 - 14438.969670        0.209138
+  14438.969670 - 16243.840879        0.174368
+  16243.840879 - 18048.712088        0.136502
+  18048.712088 - 19853.583297        0.124595
+  19853.583297 - 21658.454505        0.100834
+  21658.454505 - 23463.325714        0.106699
+  23463.325714 - 25268.196923        0.089060
+  25268.196923 - 27073.068132        0.034184
+  27073.068132 - 28877.939341        0.027519
+  28877.939341 - 30682.810549        0.039621
+  30682.810549 - 32487.681758        0.027027
+  32487.681758 - 34292.552967        0.000014
+  34292.552967 - 36097.424176        0.000005
+Mean Value = 1921.878635 , Standard Deviation = 4134.252431 
+
+
+*** Fluid Energy Balance Information:
+  MdotIn x Cp x (TOut - TIn) =       663.69 Watts
+ (Numerical) Energy Out  -  Energy In =      0.36447 Watts
+     Heat Transfer from Wall To Fluid =       761.35 Watts
+Heat Transfer Due to Sources In Fluid =            0 Watts
+
+*** Solid Energy Balance Information:
+ Heat Transfer from Exterior To Solid =            0 Watts
+Heat Transfer Due to Sources In Solid =          761 Watts
+    Heat Transfer From Fluid To Solid =      -761.31 Watts
+
+*** Sum of Fluid Forces on Walls ***
+   ShearX, PressX =        68651         78199   microNewtons
+   ShearY, PressY =        39030   6.9349e+006   microNewtons
+   ShearZ, PressZ =       -19749  -4.1017e+006   microNewtons
+
+*** Data for internal fans 
+
+Fan Part Id = 16 Fan Name = FFB1212EH
+Operating Pressure Rise = 0.46945 Inches of Water
+Operating FlowRate = 36.0109 CFM
+
+Fan Part Id = 94 Fan Name = SANYO DENKI 109R0812G401
+Operating Pressure Rise = 0.309645 Inches of Water
+Operating FlowRate = 2.33407 CFM
+
+Fan Part Id = 95 Fan Name = SANYO DENKI 109R0812G401
+Operating Pressure Rise = 0.267133 Inches of Water
+Operating FlowRate = 8.78264 CFM
+
+Fan Part Id = 96 Fan Name = SANYO DENKI 109R0812G401
+Operating Pressure Rise = 0.274899 Inches of Water
+Operating FlowRate = 7.69071 CFM
+
+Fan Part Id = 97 Fan Name = FFB1212EH
+Operating Pressure Rise = 0.423225 Inches of Water
+Operating FlowRate = 58.8688 CFM
+
+
+*** Analysis Statistics: 
+
+ Input:              461 seconds 
+ Analysis:         12686 seconds 
+ Output:             179 seconds 
+ Total:            13326 seconds 
+
+ Master process dynamic memory 3204 Mbytes
+ Slave process 0 dynamic memory 912 Mbytes
+ Slave process 1 dynamic memory 964 Mbytes
+ Slave process 2 dynamic memory 939 Mbytes
+ Slave process 3 dynamic memory 984 Mbytes
+ Slave process 4 dynamic memory 906 Mbytes
+ Slave process 5 dynamic memory 903 Mbytes
+ Slave process 6 dynamic memory 958 Mbytes
+ Slave process 7 dynamic memory 897 Mbytes
+ 
