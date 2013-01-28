@@ -24,7 +24,7 @@ blocks.each do |block|
   when /Analysis Information/
     # process the analysis information
     sum_section[:analysis_information] = Hash[block.map{ |r| r.split(/ +is +/) }]
-    #sum_file_hashed.puts(sum_section[:analysis_information])
+    sum_file_hashed.puts(sum_section[:analysis_information])
 
   when /Field Variable Results/
     # process the field variable results

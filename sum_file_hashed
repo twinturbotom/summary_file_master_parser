@@ -1,1 +1,2 @@
 {:sim_version=>{:name=>"Simulation CFD 2013", :code_name=>"BlackBear 2013.0.0 F", :date_code=>"20120223"}, :job_name=>"45c", :date_created=>"Mon Jan 14 15:48:33 2013"}
+{"Steady State"=>"ON", "Turbulent Incompressible Flow"=>"ON", "Static Temperature Equation"=>"ON", "Mixed Convection"=>"ON"}
